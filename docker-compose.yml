@@ -1,0 +1,7 @@
+name: desafio12
+services:
+    desafio12:
+        ports:
+            - 80:80
+        image: andrespspano/desafio12:v1
+    
